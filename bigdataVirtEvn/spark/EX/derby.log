@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Apr 07 18:18:12 ICT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0169-f785-2592-00000b579768 
+on database directory /home/biennt/Documents/bigdataVirtEvn/spark/EX/metastore_db with class loader sun.misc.Launcher$AppClassLoader@1a6c5a9e 
+Loaded from file:/home/biennt/Documents/bigdataVirtEvn/spark/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=/home/biennt/Documents/bigdataVirtEvn/spark/EX
+os.name=Linux
+os.arch=amd64
+os.version=4.18.0-16-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
